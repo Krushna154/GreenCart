@@ -96,33 +96,27 @@ GreenCart/
 
 ---
 
-## 📸 Screenshots
-
-### 📂 Categories Page
-![Categories](Images/Categories.png)
-
-### 🚚 Delivery Page
-![Delivery](Images/Delivery.png)
-
-### 🔐 Login Page
-![Login](Images/Login.png)
+## 📸 Images
 
 ### 🏠 Main Menu
 ![Main Menu](Images/Main.png)
 
+### 🔐 Login Page
+![Login](Images/Login.png)
+
+### ✍️ Sign Up Page
+![Sign Up](Images/UserSignup.png)
+
+### 📂 Categories Page
+![Categories](Images/Categories.png)
+
 ### 🛒 Shopping Cart Page
 ![Shopping Cart](Images/ShoppingCart.png)
 
-### ✍️ Sign Up Page
-![Sign Up](Images/UserSignUp.png)
+### 🚚 Delivery Page
+![Delivery](Images/Delivery.png)
 
 ---
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ### 👨‍💻 Author
 Developed by **Krushna Sangale** as a MERN stack React-based open-source eco-friendly e-commerce project.
 
