@@ -35,7 +35,7 @@ It allows users to browse, buy, and manage eco-friendly products, providing a se
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YashSahsani/GreenCart.git
+  https://github.com/Krushna154/GreenCart.git
    ```
 2. **Navigate to the project folder**
    ```bash
